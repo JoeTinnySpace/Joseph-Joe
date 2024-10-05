@@ -1,0 +1,4 @@
+# App-ads.txt file for File Streamer Pro Client
+
+# Authorized digital sellers
+google.com, pub-5708424466768985, DIRECT, f08c47fec0942fa0
